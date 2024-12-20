@@ -1,0 +1,2 @@
+del C:\dd\dd.txt
+start https://discord.gg/r55
